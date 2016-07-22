@@ -1,2 +1,2 @@
 # PopFilm
-Udacity Developing Android Apps course final project
+Aplikasi Android Review Film dengan menggunakan API 
